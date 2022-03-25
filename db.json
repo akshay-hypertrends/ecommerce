@@ -1,0 +1,372 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Earthen Bottle",
+      "description": "Tall slender porcelain bottle with natural clay textured body and cork stopper.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "price": "$48",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0506/2669/1278/products/622059599504915_1024x1024@2x.jpg?v=1633515258",
+      "imageSrc": [
+        "https://m.media-amazon.com/images/I/41d7oQHQoFL._SL1400_.jpg",
+        "https://meliaura.com/wp-content/uploads/2021/07/Earthen-Clay-Water-Bottle.jpg",
+        "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg"
+      ],
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper.",
+      "reviews": {
+        "average": 4,
+        "totalCount": 117
+      },
+      "color": [
+        {
+          "name": "White",
+          "class": "bg-white"
+        },
+        {
+          "name": "Charcol Gary",
+          "class": "bg-gray-200"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900"
+        }
+      ],
+      "size": [
+        {"name":"XS","inStock": false},
+        {"name":"S","inStock": true},
+        {"name":"M","inStock": true},
+        {"name":"L","inStock": true},
+        {"name":"XL","inStock": true},
+        {"name":"2XL","inStock": true},
+        {"name":"3XL","inStock": true}
+      ],
+      "shipping" : 4,
+      "tax": 3
+    },
+    {
+      "id": 2,
+      "name": "Nomad Tumbler",
+      "description": "Olive drab green insulated bottle with flared screw lid and flat top.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "price": "$35",
+      "thumbnail": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "imageSrc": [
+        "https://m.media-amazon.com/images/I/41d7oQHQoFL._SL1400_.jpg",
+        "https://meliaura.com/wp-content/uploads/2021/07/Earthen-Clay-Water-Bottle.jpg",
+        "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg"
+      ],
+      "imageAlt": "Olive drab green insulated bottle with flared screw lid and flat top.",
+      "reviews": {
+        "average": 3,
+        "totalCount": 5
+      },
+      "color": [
+        {
+          "name": "White",
+          "class": "bg-white"
+        },
+        {
+          "name": "Charcol Gary",
+          "class": "bg-gray-200"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900"
+        }
+      ],
+      "size": [
+        {"name":"XS","inStock": false},
+        {"name":"S","inStock": true},
+        {"name":"M","inStock": true},
+        {"name":"L","inStock": true},
+        {"name":"XL","inStock": true},
+        {"name":"2XL","inStock": true},
+        {"name":"3XL","inStock": true}
+      ],
+      "shipping" : 2,
+      "tax": 3
+    },
+    {
+      "id": 3,
+      "name": "Paper Refill",
+      "description": "Person using a pen to cross a task off a productivity paper card.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "price": "$89",
+      "thumbnail": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg",
+      "imageSrc": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuwgBTFApaMjUozOi1zinLGYRn_Ls7G3Hzlw&usqp=CAU",
+        "https://m.media-amazon.com/images/I/61I9J66J0SL._SY355_.jpg",
+        "https://m.media-amazon.com/images/I/51XUdugT5IL._SL1200_.jpg"
+      ],
+      "imageAlt": "Person using a pen to cross a task off a productivity paper card.",
+      "reviews": {
+        "average": 4,
+        "totalCount": 202
+      },
+      "color": [
+        {
+          "name": "White",
+          "class": "bg-white"
+        },
+        {
+          "name": "Charcol Gary",
+          "class": "bg-gray-200"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900"
+        }
+      ],
+      "size": false,
+      "shipping" : 4,
+      "tax": 1
+    },
+    {
+      "id": 4,
+      "name": "Mechanical Pencil",
+      "description": "Hand holding black machined steel mechanical pencil with brass tip and top.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "price": "$35",
+      "thumbnail": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "imageSrc": [
+        "https://i.pinimg.com/originals/9d/27/5c/9d275ca72cc0684088173e73ac216c74.jpg",
+        "https://ksr-ugc.imgix.net/assets/032/934/389/e2372c82d4643f467b61e01201eca397_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1617123991&auto=format&frame=1&q=92&s=fd88abcba4a7dcf26e487641eef266e8",
+        "https://www.yankodesign.com/images/design_news/2021/04/this-glorious-all-metal-mechanical-pencil-stores-enough-lead-to-last-you-an-entire-lifetime/Wingback_all_metal_mechanical_pencil_layout.jpg"
+      ],
+      "imageAlt": "Hand holding black machined steel mechanical pencil with brass tip and top.",
+      "reviews": {
+        "average": 4,
+        "totalCount": 355
+      },
+      "color": [
+        {
+          "name": "White",
+          "class": "bg-white"
+        },
+        {
+          "name": "Charcol Gary",
+          "class": "bg-gray-200"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900"
+        }
+      ],
+      "size": false,
+      "shipping" : 4,
+      "tax": 2
+    },
+    {
+      "id": 5,
+      "name": "Basic Tee 6-Pack",
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "price": "$192",
+      "thumbnail": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+      "imageSrc": [
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg"
+      ],
+      "imageAlt": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "reviews": {
+        "average": 4,
+        "totalCount": 117
+      },
+      "color": [
+        {
+          "name": "White",
+          "class": "bg-white"
+        },
+        {
+          "name": "Charcol Gary",
+          "class": "bg-gray-200"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900"
+        }
+      ],
+      "size": [
+        {"name":"XS","inStock": false},
+        {"name":"S","inStock": true},
+        {"name":"M","inStock": true},
+        {"name":"L","inStock": true},
+        {"name":"XL","inStock": true},
+        {"name":"2XL","inStock": true},
+        {"name":"3XL","inStock": true}
+      ],
+      "shipping" : 5,
+      "tax": 5
+    },
+    {
+      "id": 6,
+      "name": "T-shirt for women",
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "price": "$220",
+      "thumbnail": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-01.jpg",
+      "imageSrc": [
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg"
+      ],
+      "imageAlt": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "reviews": {
+        "average": 4,
+        "totalCount": 78
+      },
+      "color": [
+        {
+          "name": "White",
+          "class": "bg-white"
+        },
+        {
+          "name": "Charcol Gary",
+          "class": "bg-gray-200"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900"
+        }
+      ],
+      "size": [
+        {"name":"XS","inStock": false},
+        {"name":"S","inStock": true},
+        {"name":"M","inStock": true},
+        {"name":"L","inStock": true},
+        {"name":"XL","inStock": true},
+        {"name":"2XL","inStock": true},
+        {"name":"3XL","inStock": true}
+      ],
+      "shipping" : 5,
+      "tax": 5
+    },
+    {
+      "id": 7,
+      "name": "Denim Jacket",
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "price": "$350",
+      "thumbnail": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-04.jpg",
+      "imageSrc": [
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg"
+      ],
+      "imageAlt": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "reviews": {
+        "average": 5,
+        "totalCount": 555
+      },
+      "color": [
+        {
+          "name": "White",
+          "class": "bg-white"
+        },
+        {
+          "name": "Charcol Gary",
+          "class": "bg-gray-200"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900"
+        }
+      ],
+      "size": [
+        {"name":"XS","inStock": false},
+        {"name":"S","inStock": true},
+        {"name":"M","inStock": true},
+        {"name":"L","inStock": true},
+        {"name":"XL","inStock": true},
+        {"name":"2XL","inStock": true},
+        {"name":"3XL","inStock": true}
+      ],
+      "shipping" : 5,
+      "tax": 5
+    },
+    {
+      "id": 8,
+      "name": "T-shirt for men",
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "price": "$189",
+      "thumbnail": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-07.jpg",
+      "imageSrc": [
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+        "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg"
+      ],
+      "imageAlt": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "reviews": {
+        "average": 5,
+        "totalCount": 220
+      },
+      "color": [
+        {
+          "name": "White",
+          "class": "bg-white"
+        },
+        {
+          "name": "Charcol Gary",
+          "class": "bg-gray-200"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900"
+        }
+      ],
+      "size": [
+        {"name":"XS","inStock": false},
+        {"name":"S","inStock": true},
+        {"name":"M","inStock": true},
+        {"name":"L","inStock": true},
+        {"name":"XL","inStock": true},
+        {"name":"2XL","inStock": true},
+        {"name":"3XL","inStock": true}
+      ],
+      "shipping" : 5,
+      "tax": 5
+    }
+  ]
+}
