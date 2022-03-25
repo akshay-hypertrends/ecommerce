@@ -82,13 +82,9 @@ const CartItem = ({ product, toggleDrawer = null }) => {
               </Select>
             </div>
             <div>
-              <Link href={`/products/${product.id}`}>
-                <a>
-                  <IconButton color="primary" size="small">
-                    <Edit fontSize="small" />
-                  </IconButton>
-                </a>
-              </Link>
+              <IconButton color="primary" size="small" onClick={gotoDetails}>
+                <Edit fontSize="small" />
+              </IconButton>
               <IconButton color="error" size="small" onClick={deleteItem}>
                 <Delete fontSize="small" />
               </IconButton>
